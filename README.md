@@ -1,4 +1,4 @@
-# - A Video Player - made with React
+# A Video Player - made with React
 
 People spend hours and hours watching YouTube videos on a daily basis. 
 
