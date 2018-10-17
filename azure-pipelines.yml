@@ -14,5 +14,5 @@ steps:
 
 - script: |
     npm install
-    npm start
+    webpack -p
   displayName: 'npm install and build'
